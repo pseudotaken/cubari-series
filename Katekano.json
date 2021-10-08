@@ -1,0 +1,33 @@
+{
+  "title": "Katekano",
+  "description": "",
+  "artist": "Ohtomo Takuji",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1633712747",
+      "groups": {
+        "LithiusLight": [
+          "https://i.redd.it/bwi6ua17b7s71.jpg",
+          "https://i.redd.it/ldkkphd7b7s71.jpg",
+          "https://i.redd.it/reawhlp7b7s71.jpg",
+          "https://i.redd.it/8sy3l5u7b7s71.jpg",
+          "https://i.redd.it/o85jrmx7b7s71.jpg",
+          "https://i.redd.it/v1g7o318b7s71.jpg",
+          "https://i.redd.it/ve38lt48b7s71.jpg",
+          "https://i.redd.it/8qvpazg8b7s71.jpg",
+          "https://i.redd.it/zuxuyjk8b7s71.jpg",
+          "https://i.redd.it/jkflbjv8b7s71.jpg",
+          "https://i.redd.it/0h4mb109b7s71.jpg",
+          "https://i.redd.it/4o5iqj39b7s71.jpg",
+          "https://i.redd.it/5ces6x69b7s71.jpg",
+          "https://i.redd.it/jxfyyda9b7s71.jpg",
+          "https://i.redd.it/yd6sntd9b7s71.jpg"
+        ]
+      }
+    }
+  }
+}
